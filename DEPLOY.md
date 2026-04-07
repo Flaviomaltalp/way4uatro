@@ -31,9 +31,9 @@
 
 | Chave              | Valor                                      |
 |--------------------|--------------------------------------------|
-| SUPABASE_URL       | https://nwmqlwtssgrdksjxhrfx.supabase.co   |
-| SUPABASE_ANON_KEY  | eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...   |
-| RESEND_API_KEY     | re_XzCZ6BNR_AbkPWLDRuc25vATXpYDujXyR      |
+| SUPABASE_URL       | https://hqbisqddofzpmyalupum.supabase.co   |
+| SUPABASE_ANON_KEY  | eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhxYmlzcWRkb2Z6cG15YWx1cHVtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU1ODE5NjEsImV4cCI6MjA5MTE1Nzk2MX0.79MBRg7bDvT7WZRz8wnusLTvlx-FKWv8BNwhyucW61E  |
+| RESEND_API_KEY     | re_LF7JRSvi_DzwL7M25kxwJZXSTNnciK4de      |
 | EMAIL_DESTINO      | arqfernando@hotmail.com                    |
 
 3. Após adicionar todas, clique em **Trigger deploy → Deploy site**
